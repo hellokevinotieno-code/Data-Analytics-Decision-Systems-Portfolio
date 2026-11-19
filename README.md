@@ -28,10 +28,8 @@ I build analytics solutions from raw data all the way to the decision it support
 | 02 | [Predictive CLV & Churn Defense Engine](./02-Predictive-CLV-Churn-Defense-Engine) | E-Commerce & SaaS | Early churn warning, SHAP explainability and retention playbooks | Planned |
 | 03 | [Clinical Resource & Capacity Digital Twin](./03-Clinical-Resource-Capacity-Digital-Twin) | Healthcare Ops | Hospital bed and staffing simulation, surge optimization | Planned |
 | 04 | [Citizen Experience & Service Delivery Platform](./04-Citizen-Experience-Service-Delivery-Platform) | Public Sector | Service request bottleneck analysis, NLP sentiment and SLA tracking | Planned |
-| 05 | [Geopolitical & Climate Supply Chain Control Tower](./05-Geopolitical-Climate-Supply-Chain-Control-Tower) | Trade & Logistics | Multi-tier supplier risk scoring, trade volatility and scenario planning | Planned |
-| 06 | [Fintech Revenue Leakage & Dynamic Pricing](./06-Fintech-Revenue-Leakage-Dynamic-Pricing) | Financial Services | Failed-payment anomaly detection and pricing elasticity modeling | Planned |
-| 07 | [AI-Ready Data Observability & Semantic Layer](./07-AI-Ready-Data-Observability-Semantic-Layer) | Data Governance | Automated data quality audits and governed semantic definitions | Planned |
-| 08 | [Scope 3 Emissions & Sustainable Procurement Engine](./08-Scope-3-Sustainable-Procurement-Engine) | Sustainable Supply Chain | Multi-objective sourcing optimization across cost, risk and carbon | Planned |
+| 05 | [Fintech Revenue Leakage & Dynamic Pricing](./05-Fintech-Revenue-Leakage-Dynamic-Pricing) | Financial Services | Failed-payment anomaly detection and pricing elasticity modeling | Planned |
+| 06 | [AI-Ready Data Observability & Semantic Layer](./06-AI-Ready-Data-Observability-Semantic-Layer) | Data Governance | Automated data quality audits and governed semantic definitions | Planned |
 
 ---
 
@@ -39,7 +37,7 @@ I build analytics solutions from raw data all the way to the decision it support
 
 Every project in this repo uses the same folder layout.
 
-```text
+````text
 0X-Project-Name/
 ├── dataset/      # Raw and cleaned datasets, plus a data dictionary
 ├── sql/          # Schema design, views, CTEs and analytical queries
@@ -47,7 +45,9 @@ Every project in this repo uses the same folder layout.
 ├── bi-app/       # Power BI (.pbix) files, DAX measures or Streamlit apps
 ├── images/       # Dashboard and app screenshots
 └── README.md     # Business problem, architecture, key metrics and insights
-```---
+````
+
+---
 
 ## Experience, Education and Certifications
 
